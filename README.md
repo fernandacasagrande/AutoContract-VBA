@@ -37,14 +37,14 @@ Além disso, o botão também possibilita que o editor alterne entre as senhas d
 
 Ao finalizar o Login, o App será aberto em modo leitura, conforme a imagem abaixo:
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="600px" />
+  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="800px" />
   <br><br>
 </h3>
 
 Em seguida, o usuário deve inserir o número da solicitação no formato “SOL00001” no campo em branco abaixo. Com essa informação, o aplicativo buscará automaticamente o arquivo ”.json” correto na pasta de downloads da máquina do usuário. Para iniciar a busca, basta clicar no ícone da lupa.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/2d59b661-9caf-4793-b29e-3c2461f36aad" width="600px" />
+  <img src="https://github.com/user-attachments/assets/2d59b661-9caf-4793-b29e-3c2461f36aad" width="500px" />
   <br><br>
 </h3>
 
