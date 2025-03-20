@@ -54,8 +54,11 @@ Após a busca, o aplicativo exibirá um resumo da operação para conferência, 
 
 ### *Upload dos Dados PCOM, Organização e Classificação*
 Após isso, o usuário deve preencher os seguintes campos:
+
 	•	Sigla: Deve ser informada para que o contrato emitido fique identificado, permitindo rastrear quem o gerou.
+ 
 	•	Assinatura digital: O usuário deve indicar se o contrato será assinado digitalmente ou não.
+ 
 	•	Sessão da tela preta (PCOM): Deve estar aberta e desbloqueada em segundo plano no computador. Isso permitirá que o aplicativo realize a busca automatizada na tela PCOM, importando as informações necessárias diretamente para o sistema.
 
 <h3 align="center">
