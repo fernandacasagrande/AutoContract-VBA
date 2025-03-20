@@ -22,6 +22,24 @@ A senha de edição é única e restrita aos responsáveis pela manutenção do 
   <br><br>
 </h3>
 
+**_Observação:_**
+
+Para fins de conferência, o número de usuário é exibido no cabeçalho do aplicativo conforme o exemplo abaixo, acompanhado de um botão “Mudar de usuário”. Esse botão permite que o usuário corrija o número quantas vezes for necessário.
+
+Além disso, o botão também possibilita que o editor alterne entre as senhas de usuário e de editor, permitindo a visualização do aplicativo em ambas as interfaces (modo leitura e modo edição).
+
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/62d67446-99bc-4329-8917-e680eacd0ca9" width="300px" />
+  <br><br>
+</h3>
+
+### *Upload dos Dados*
+Após o Login o App será aberto em modo leitura, conforme a imagem abaixo:
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="400px" />
+  <br><br>
+</h3>
+
 
 
 
