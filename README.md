@@ -18,7 +18,7 @@ A tela de login utiliza uma senha padrão para todos os usuários, permitindo-lh
 A senha de edição é única e restrita aos responsáveis pela manutenção do aplicativo, garantindo maior segurança e controle sobre suas atualizações.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/e50c5097-a5fe-421b-a1c1-0a7e0624896f" width="600px" />
+  <img src="https://github.com/user-attachments/assets/e50c5097-a5fe-421b-a1c1-0a7e0624896f" width="200px" />
   <br><br>
 </h3>
 
