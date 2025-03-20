@@ -10,6 +10,20 @@ Essa automação eliminou o trabalho manual, reduziu drasticamente o tempo gasto
 
 ## Funcionamento
 
+### *Tela de Login*
+Ao abrir o aplicativo AUTOCONTRACT.xlsm, o usuário é direcionado para uma tela de login, onde deve inserir corretamente seu número de usuário. Esse passo é fundamental para que o aplicativo realize a busca adequada pelos downloads no computador do usuário.
+
+A tela de login utiliza uma senha padrão para todos os usuários, permitindo-lhes gerar minutas em modo somente leitura, sem a possibilidade de editar o aplicativo. Todos os usuários podem acessar o aplicativo e confeccionar minutas simultaneamente, sem a necessidade — e nem a recomendação — de fazer cópias do arquivo em suas máquinas. Isso garante que todos utilizem sempre a versão mais atualizada do aplicativo, acessando-o diretamente na rede em modo somente leitura.
+
+A senha de edição é única e restrita aos responsáveis pela manutenção do aplicativo, garantindo maior segurança e controle sobre suas atualizações.
+
+<h3 align="center">
+  <img src="https://github.com/MidoriToyota/PortfolioRecommender/blob/master/img/upload.jpg" alt="Período de análise" width="600px" />
+  <br><br>
+</h3>
+
+![image](https://github.com/user-attachments/assets/e50c5097-a5fe-421b-a1c1-0a7e0624896f)
+
 
 
 
