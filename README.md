@@ -66,7 +66,7 @@ Após isso, o usuário deve preencher os seguintes campos:
 Se houver alterações, o usuário deve selecioná-las no campo “Alterações” exibido abaixo. Em seguida, deve clicar no botão “Buscar Tela Preta e Configurar” para que o aplicativo colete as informações da tela preta (PCOM) e as combine com os dados extraídos do arquivo .json do ServiceNow. O sistema organizará e classificará essas informações, garantindo que sejam inseridas corretamente na minuta, seja no formato WORD ou PDF.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/3529b1f4-4c52-4562-b517-3c5ec89c4275" width="500px" />
+  <img src="https://github.com/user-attachments/assets/3529b1f4-4c52-4562-b517-3c5ec89c4275" width="800px" />
   <br><br>
 </h3>
 
@@ -76,7 +76,7 @@ Por fim, o usuário deve seguir os passos abaixo, de acordo com o formato da min
 	•	Minuta em Word: Basta clicar no botão “Gerar Minuta WORD”. O aplicativo criará a minuta a partir do modelo pré-configurado, armazenado na mesma pasta do sistema. Após a geração, a minuta será salva automaticamente na pasta de destino, utilizando a nomenclatura padrão definida.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/2aa9ea26-202e-46e3-8056-bf81dfba1e1c" width="400px" />
+  <img src="https://github.com/user-attachments/assets/2aa9ea26-202e-46e3-8056-bf81dfba1e1c" width="600px" />
   <br><br>
 </h3>
 
