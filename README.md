@@ -76,7 +76,7 @@ Por fim, o usuário deve seguir os passos abaixo, de acordo com o formato da min
 	•	Minuta em Word: Basta clicar no botão “Gerar Minuta WORD”. O aplicativo criará a minuta a partir do modelo pré-configurado, armazenado na mesma pasta do sistema. Após a geração, a minuta será salva automaticamente na pasta de destino, utilizando a nomenclatura padrão definida.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/2aa9ea26-202e-46e3-8056-bf81dfba1e1c" width="600px" />
+  <img src="https://github.com/user-attachments/assets/2aa9ea26-202e-46e3-8056-bf81dfba1e1c" width="450px" />
   <br><br>
 </h3>
 
