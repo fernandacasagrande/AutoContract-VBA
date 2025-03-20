@@ -37,7 +37,7 @@ Além disso, o botão também possibilita que o editor alterne entre as senhas d
 
 Ao finalizar o Login, o App será aberto em modo leitura, conforme a imagem abaixo:
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="800px" />
+  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="650px" />
   <br><br>
 </h3>
 
