@@ -29,7 +29,7 @@ Para fins de conferência, o número de usuário é exibido no cabeçalho do apl
 Além disso, o botão também possibilita que o editor alterne entre as senhas de usuário e de editor, permitindo a visualização do aplicativo em ambas as interfaces (modo leitura e modo edição).
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/62d67446-99bc-4329-8917-e680eacd0ca9" width="200px" />
+  <img src="https://github.com/user-attachments/assets/62d67446-99bc-4329-8917-e680eacd0ca9" width="300px" />
   <br><br>
 </h3>
 
