@@ -75,7 +75,9 @@ Se houver alterações, o usuário deve selecioná-las no campo “Alterações�
 
 ### *Emissão do Contrato PDF ou WORD*
 Por fim, o usuário deve seguir os passos abaixo, de acordo com o formato da minuta desejado:
+
 	•	Minuta em PDF: Selecionar, no campo apropriado, a minuta desejada dentre as disponíveis no banco de minutas. Em seguida, clicar no botão “Gerar Arquivo PDF”. O aplicativo abrirá o Adobe Acrobat em segundo plano e preencherá automaticamente a minuta, deixando-a pronta para que o usuário a salve posteriormente.
+ 
 	•	Minuta em Word: Basta clicar no botão “Gerar Minuta WORD”. O aplicativo criará a minuta a partir do modelo pré-configurado, armazenado na mesma pasta do sistema. Após a geração, a minuta será salva automaticamente na pasta de destino, utilizando a nomenclatura padrão definida.
 
 <h3 align="center">
