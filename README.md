@@ -29,7 +29,7 @@ Para fins de conferência, o número de usuário é exibido no cabeçalho do apl
 Além disso, o botão também possibilita que o editor alterne entre as senhas de usuário e de editor, permitindo a visualização do aplicativo em ambas as interfaces (modo leitura e modo edição).
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/62d67446-99bc-4329-8917-e680eacd0ca9" width="300px" />
+  <img src="https://github.com/user-attachments/assets/62d67446-99bc-4329-8917-e680eacd0ca9" width="200px" />
   <br><br>
 </h3>
 
@@ -37,14 +37,14 @@ Além disso, o botão também possibilita que o editor alterne entre as senhas d
 
 Ao finalizar o Login, o App será aberto em modo leitura, conforme a imagem abaixo:
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="400px" />
+  <img src="https://github.com/user-attachments/assets/c29b729b-fa09-4a48-9544-7c9aa339f871" width="600px" />
   <br><br>
 </h3>
 
 Em seguida, o usuário deve inserir o número da solicitação no formato “SOL00001” no campo em branco abaixo. Com essa informação, o aplicativo buscará automaticamente o arquivo ”.json” correto na pasta de downloads da máquina do usuário. Para iniciar a busca, basta clicar no ícone da lupa.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/2d59b661-9caf-4793-b29e-3c2461f36aad" width="300px" />
+  <img src="https://github.com/user-attachments/assets/2d59b661-9caf-4793-b29e-3c2461f36aad" width="600px" />
   <br><br>
 </h3>
 
@@ -59,14 +59,14 @@ Após isso, o usuário deve preencher os seguintes campos:
 	•	Sessão da tela preta (PCOM): Deve estar aberta e desbloqueada em segundo plano no computador. Isso permitirá que o aplicativo realize a busca automatizada na tela PCOM, importando as informações necessárias diretamente para o sistema.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/00102da3-e2eb-44b7-b53d-02fc04e4ef25" width="300px" />
+  <img src="https://github.com/user-attachments/assets/00102da3-e2eb-44b7-b53d-02fc04e4ef25" width="600px" />
   <br><br>
 </h3>
 
 Se houver alterações, o usuário deve selecioná-las no campo “Alterações” exibido abaixo. Em seguida, deve clicar no botão “Buscar Tela Preta e Configurar” para que o aplicativo colete as informações da tela preta (PCOM) e as combine com os dados extraídos do arquivo .json do ServiceNow. O sistema organizará e classificará essas informações, garantindo que sejam inseridas corretamente na minuta, seja no formato WORD ou PDF.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/3529b1f4-4c52-4562-b517-3c5ec89c4275" width="300px" />
+  <img src="https://github.com/user-attachments/assets/3529b1f4-4c52-4562-b517-3c5ec89c4275" width="600px" />
   <br><br>
 </h3>
 
@@ -76,7 +76,7 @@ Por fim, o usuário deve seguir os passos abaixo, de acordo com o formato da min
 	•	Minuta em Word: Basta clicar no botão “Gerar Minuta WORD”. O aplicativo criará a minuta a partir do modelo pré-configurado, armazenado na mesma pasta do sistema. Após a geração, a minuta será salva automaticamente na pasta de destino, utilizando a nomenclatura padrão definida.
 
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/2aa9ea26-202e-46e3-8056-bf81dfba1e1c" width="300px" />
+  <img src="https://github.com/user-attachments/assets/2aa9ea26-202e-46e3-8056-bf81dfba1e1c" width="600px" />
   <br><br>
 </h3>
 
