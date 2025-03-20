@@ -8,17 +8,9 @@ Para eliminar essas dificuldades, o aplicativo automatiza completamente o proces
 
 Essa automação eliminou o trabalho manual, reduziu drasticamente o tempo gasto na confecção de contratos e minimizou erros, garantindo mais eficiência, precisão e escalabilidade. O que antes era um processo burocrático e suscetível a falhas, agora é rápido, confiável e otimizado, permitindo que os profissionais se concentrem no que realmente importa: análise, revisão e decisões estratégicas.
 
-# Como rodar o app localmente
+# Funcionamento
 
-Para instalar o AutoContract e rodar localmente na sua máquina, siga o passo à passo abaixo:
 
-# Download do repositório
-git clone https://github.com/MidoriToyota/PortfolioRecommender.git
 
-# Instalar os pacotes do requirements.txt
-pip install -r requirements.txt
 
-# Rodar o app
-python app.py
 
-A VBA-powered Excel application that automates contract creation using JSON data as input. The data is processed via Excel formulas and VBA modules, allowing analysts to select and generate contracts in Word or PDF. Pre-configured contract templates ensure seamless integration with the system, optimizing accuracy and efficiency.
